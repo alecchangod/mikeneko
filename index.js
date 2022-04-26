@@ -46,8 +46,6 @@ Partials.Message,
 
 
 
-
-
 //if the server doesn't have a set prefix yet
 let prefix = '&';
 client.on('ready', () => {
